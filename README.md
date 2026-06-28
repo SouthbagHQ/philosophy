@@ -1,5 +1,8 @@
 # Southbag Philosophy
 ---
+---
+---
+# ---
 1. Kevin
 2. Security through obscurity
 3. If the user can't see the sensitive information at a first glance, it's secure enough
